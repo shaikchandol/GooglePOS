@@ -1,0 +1,6 @@
+{
+  "name": "Cloud POS Architecture Blueprint",
+  "description": "Comprehensive architectural guide and technical blueprint for a modular monolith Retail POS with multi-tenancy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
